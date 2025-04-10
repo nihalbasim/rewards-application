@@ -31,8 +31,3 @@ public class ReceiptController {
         return ResponseEntity.ok("Rewards Application is up and running");
     }
 }
-
-//Todo
-
-//validation - sent better msg on validation failure
-//exception handling
